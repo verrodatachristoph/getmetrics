@@ -45,6 +45,12 @@ export default async function DashboardLayout({
                 >
                   Settings
                 </a>
+                <a
+                  href="/test-adobe"
+                  className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
+                >
+                  Test Adobe
+                </a>
               </div>
             </div>
 
